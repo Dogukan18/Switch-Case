@@ -1,1 +1,1 @@
-# Switch-Case
+# Switch-Case Exercises
