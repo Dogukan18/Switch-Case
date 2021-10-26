@@ -1,0 +1,13 @@
+C:\Users\elado\source\repos\switchCase\switchCase\bin\Debug\netcoreapp3.1\switchCase.exe
+C:\Users\elado\source\repos\switchCase\switchCase\bin\Debug\netcoreapp3.1\switchCase.deps.json
+C:\Users\elado\source\repos\switchCase\switchCase\bin\Debug\netcoreapp3.1\switchCase.runtimeconfig.json
+C:\Users\elado\source\repos\switchCase\switchCase\bin\Debug\netcoreapp3.1\switchCase.runtimeconfig.dev.json
+C:\Users\elado\source\repos\switchCase\switchCase\bin\Debug\netcoreapp3.1\switchCase.dll
+C:\Users\elado\source\repos\switchCase\switchCase\bin\Debug\netcoreapp3.1\switchCase.pdb
+C:\Users\elado\source\repos\switchCase\switchCase\obj\Debug\netcoreapp3.1\switchCase.csproj.AssemblyReference.cache
+C:\Users\elado\source\repos\switchCase\switchCase\obj\Debug\netcoreapp3.1\switchCase.AssemblyInfoInputs.cache
+C:\Users\elado\source\repos\switchCase\switchCase\obj\Debug\netcoreapp3.1\switchCase.AssemblyInfo.cs
+C:\Users\elado\source\repos\switchCase\switchCase\obj\Debug\netcoreapp3.1\switchCase.csproj.CoreCompileInputs.cache
+C:\Users\elado\source\repos\switchCase\switchCase\obj\Debug\netcoreapp3.1\switchCase.dll
+C:\Users\elado\source\repos\switchCase\switchCase\obj\Debug\netcoreapp3.1\switchCase.pdb
+C:\Users\elado\source\repos\switchCase\switchCase\obj\Debug\netcoreapp3.1\switchCase.genruntimeconfig.cache
